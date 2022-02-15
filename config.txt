@@ -1,0 +1,4 @@
+word(ворд, word, порт): C:\Program Files (x86)\Microsoft Office\root\Office16\WINWORD.EXE
+firefox(firefox, fox, fire, факс, фокс, фаерфокс, лиса): C:\Program Files\Mozilla Firefox\firefox.exe
+riot('райот', 'riot', 'party', 'пати', 'туса', 'резорт'): ''
+time('время', 'сколько время', 'который час', 'time', "what's time"): ''
